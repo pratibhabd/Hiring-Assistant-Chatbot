@@ -1,8 +1,5 @@
 import re
 
-import re
-
-
 def validate_name(name):
     """
     Validates a full name: letters, spaces, dots, hyphens only.
@@ -93,3 +90,4 @@ def validate_tech_stack(tech_stack):
 
 def goodbye_message():
     return "🙏 Thank you for your time.<br><br>✨ All the best for your future!"
+
